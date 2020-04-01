@@ -8,12 +8,12 @@
 `git clone git@github.com:Archaeologist03/pern-todo.git`
 
 ##### 2) Install server packages and run locally:
-`cd server`
-`npm install`
-`npm run server`
+`cd server`<br/>
+`npm install`<br/>
+`npm run server`<br/>
 
 ##### 3) Install client packages and run locally:
-`cd client`
-`npm install`
-`npm start`
+`cd client`<br/>
+`npm install`<br/>
+`npm start`<br/>
 
